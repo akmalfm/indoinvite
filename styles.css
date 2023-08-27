@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.profile {
+    text-align: center;
+    padding: 50px;
+    background-color: #FF0000;
+    color: #FFFFFF;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.social-links img {
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+}
+
+.services {
+    padding: 30px;
+}
+
+.services h2 {
+    color: #FF0000;
+}
+
+.services ul {
+    list-style: none;
+    padding: 0;
+}
+
+.services li {
+    margin-bottom: 10px;
+}
+
+.whatsapp-link {
+    display: block;
+    margin-top: 10px;
+    color: #FFFFFF;
+    background-color: #FF0000;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.rules-rekber {
+    text-align: center;
+    padding: 50px;
+    background-color: #c9c9c9;
+}
+
+.price-list {
+    text-align: center;
+    padding: 50px;
+    background-color: #F0F0F0;
+}
+
+.price-list img {
+    max-width: 100%;
+}
